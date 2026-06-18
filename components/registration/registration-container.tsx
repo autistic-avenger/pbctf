@@ -777,7 +777,7 @@ export function RegistrationContainer({
       )}
 
       {/* Card about filling more fields */}
-      <Card className="bg-[rgba(0,255,64,0.1)] border-[#22c55e]/30">
+      <Card className="bg-[rgba(21,255,0,0.1)] border-[#22c55e]/50">
         <div className="flex items-start gap-[12px]">
           <Info className="w-5 h-5 text-[#22c55e] flex-shrink-0 mt-0.5" />
           <div className="flex flex-col gap-[4px]">
